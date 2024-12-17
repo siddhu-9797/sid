@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/sidgoparaju.com/static/css/main.5a258e68.css",
-    "main.js": "/sidgoparaju.com/static/js/main.1841e8db.js",
-    "static/js/787.52be2225.chunk.js": "/sidgoparaju.com/static/js/787.52be2225.chunk.js",
-    "static/media/banner-bg.png": "/sidgoparaju.com/static/media/banner-bg.494026481ed1d5c1abc5.png",
-    "static/media/footer-bg.png": "/sidgoparaju.com/static/media/footer-bg.55e0922a63362740d1eb.png",
-    "static/media/sid.jpg": "/sidgoparaju.com/static/media/sid.c02d731345f953bb7a57.jpg",
-    "static/media/cmu.jpg": "/sidgoparaju.com/static/media/cmu.3dd2d5c480f6999580a0.jpg",
-    "static/media/CentraNo2-Bold.ttf": "/sidgoparaju.com/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
-    "static/media/CentraNo2-Medium.ttf": "/sidgoparaju.com/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
-    "static/media/CentraNo2-Book.ttf": "/sidgoparaju.com/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/contact-img.svg": "/sidgoparaju.com/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
-    "static/media/providence.svg": "/sidgoparaju.com/static/media/providence.c33f9fdaaa92e21096c5d829aff28719.svg",
-    "static/media/logo.svg": "/sidgoparaju.com/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "static/media/nav-icon3.svg": "/sidgoparaju.com/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/nav-icon1.svg": "/sidgoparaju.com/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "index.html": "/sidgoparaju.com/index.html",
-    "static/media/nav-icon2.svg": "/sidgoparaju.com/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.5a258e68.css.map": "/sidgoparaju.com/static/css/main.5a258e68.css.map",
-    "main.1841e8db.js.map": "/sidgoparaju.com/static/js/main.1841e8db.js.map",
-    "787.52be2225.chunk.js.map": "/sidgoparaju.com/static/js/787.52be2225.chunk.js.map"
+    "main.css": "/static/css/main.decdbb0c.css",
+    "main.js": "/static/js/main.7ac63e04.js",
+    "static/js/787.52be2225.chunk.js": "/static/js/787.52be2225.chunk.js",
+    "static/media/banner-bg.png": "/static/media/banner-bg.494026481ed1d5c1abc5.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.55e0922a63362740d1eb.png",
+    "static/media/sid.jpg": "/static/media/sid.c02d731345f953bb7a57.jpg",
+    "static/media/cmu.jpg": "/static/media/cmu.3dd2d5c480f6999580a0.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/providence.svg": "/static/media/providence.c33f9fdaaa92e21096c5d829aff28719.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.decdbb0c.css.map": "/static/css/main.decdbb0c.css.map",
+    "main.7ac63e04.js.map": "/static/js/main.7ac63e04.js.map",
+    "787.52be2225.chunk.js.map": "/static/js/787.52be2225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a258e68.css",
-    "static/js/main.1841e8db.js"
+    "static/css/main.decdbb0c.css",
+    "static/js/main.7ac63e04.js"
   ]
 }
